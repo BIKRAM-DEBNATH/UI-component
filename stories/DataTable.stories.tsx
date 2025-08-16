@@ -19,8 +19,8 @@ interface User {
 const sampleUsers: User[] = [
   {
     id: 1,
-    name: "John Doe",
-    email: "john@example.com",
+    name: "Arjun Sharma",
+    email: "arjun@example.com",
     role: "Admin",
     status: "active",
     joinDate: "2023-01-15",
@@ -28,8 +28,8 @@ const sampleUsers: User[] = [
   },
   {
     id: 2,
-    name: "Jane Smith",
-    email: "jane@example.com",
+    name: "Priya Patel",
+    email: "priya@example.com",
     role: "User",
     status: "active",
     joinDate: "2023-03-22",
@@ -37,8 +37,8 @@ const sampleUsers: User[] = [
   },
   {
     id: 3,
-    name: "Bob Johnson",
-    email: "bob@example.com",
+    name: "Rajesh Kumar",
+    email: "rajesh@example.com",
     role: "Moderator",
     status: "inactive",
     joinDate: "2023-06-10",
@@ -46,8 +46,8 @@ const sampleUsers: User[] = [
   },
   {
     id: 4,
-    name: "Alice Brown",
-    email: "alice@example.com",
+    name: "Ananya Singh",
+    email: "ananya@example.com",
     role: "User",
     status: "pending",
     joinDate: "2024-01-01",
@@ -55,8 +55,8 @@ const sampleUsers: User[] = [
   },
   {
     id: 5,
-    name: "Charlie Wilson",
-    email: "charlie@example.com",
+    name: "Vikram Gupta",
+    email: "vikram@example.com",
     role: "User",
     status: "active",
     joinDate: "2023-09-05",
